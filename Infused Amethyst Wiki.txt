@@ -1,0 +1,35 @@
+This is the Wiki for The Infused Amethyst Mod.
+RalphOfficial#0001 on Discord
+@ralphofficial5 on Twitter.
+
+--------------------------------------------------------------------------------------------------------------
+The Infused Amethyst Mod adds a brand new Infused Amethyst material.
+Which can be obtained from Infused Amethyst Ores ( https://imgur.com/g5w5f5G ) that generate in caves, Or by combining Smooth Basalt and Amethyst Shard in a smithing table.
+
+Infused Amethyst Recipe: https://imgur.com/qvAR2YX
+
+Using this material, You can make Infused Amethyst Tools and Blocks.
+-------------------------------------------------
+BLOCKS AND THEIR RECIPES
+-------------------------------------------------
+Currently, This mod adds 7 New Blocks:
+
+Infused Amethyst Block: (Recipe): https://imgur.com/1pR3TQv
+Polished Infused Amethyst: (Recipe): https://imgur.com/jewv3xG
+Polished Infused Amethyst Slab: (Recipe): https://imgur.com/0HuzZEk
+Poilshed Infused Amethyst Stairs: (No Recipe yet, available in creative inventory)
+Infused Amethyst Bricks: (Recipe): https://imgur.com/FNpnrfe
+Infused Amethyst Bricks Slab: (No Recipe yet, available in creative inventory)
+Infused Amethyst Bricks Stairs: (No Recipe yet, available in creative inventory)
+-------------------------------------------------
+ITEMS AND THEIR RECIPES
+-------------------------------------------------
+Currently, This mod adds 6 New Items:
+
+Infused Amethyst: (Recipe): https://imgur.com/qvAR2YX
+Infused Amethyst Sword: (Recipe): https://imgur.com/j5MTA42
+Infused Amethyst Pickaxe: (Recipe): https://imgur.com/97f8rAs
+Infused Amethyst Axe: (Recipe): https://imgur.com/sCUDPan
+Infused Amethyst Shovel: (Recipe): https://imgur.com/ab3mind
+Infused Amethyst Hoe: (Recipe): https://imgur.com/rCUHbxI
+-------------------------------------------------
